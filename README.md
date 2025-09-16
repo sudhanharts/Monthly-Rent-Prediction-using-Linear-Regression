@@ -18,5 +18,4 @@ git clone <your-repo-url>
 cd monthly-rent-prediction
 
 pip install numpy pandas matplotlib scikit-learn
-python rent_prediction.py
 
